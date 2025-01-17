@@ -94,7 +94,6 @@
 // module.exports = { getTasks, addTask, editTask, deleteTask, toggleTaskCompletion };
 
 
-
 const Task = require('../models/Task');
 
 // Get all tasks
